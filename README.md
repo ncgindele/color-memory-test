@@ -36,7 +36,7 @@ By default, a set of predetermined data will be loaded into the visualizations. 
 
 ## Building for Production
 
-To build the project for production, run the following command:
+1. To build the project for production, run the following command:
 
     `npm run build`
 
