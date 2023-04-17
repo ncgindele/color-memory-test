@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #fff;
+  padding: 4rem 8rem 1rem 4rem;
+  box-shadow: #555;
+}
+.page-heading {
+  font-size: 5rem;
+  color: #555;
+  margin: 0;
+  padding: 1rem 4rem 3rem 4rem;
+}
+
+.heading-accent-word {
+	color: #111;
+}
+
+.heading-unaccent-word {
+  color: #999;
+}
+
+hr {
+  margin: 1rem;
+}
+
+.align-left {
+  text-align: left;
+}
+
+h2 {
+  color: #333;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+.results-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.scatter-plot-container {
+  margin: auto;
+  flex: 1 0 100%;
+}
+
+.histogram-container {
+  display: inline-block;
+  flex: 1 0 30%;
+  margin: 10px;
+  min-width: 560px;
+}
+
+.test-rectangle {
+  /* height: 350px; */
+  width: 500px;
+  border-radius: 12px;
+  padding: 20px 20px 35px 20px;
+  margin: 0 auto 30px auto;
+}
+
+.test-panel-ui {
+  padding: 5px 20px 35px 20px;
+}
+
+.btn-container {
+  bottom: 0;
+}
+
+.button {
+  width: 47%;
+}
+
+.btn-spacer {
+  display: inline-block;
+  width: 6%;
+}
+
+.confidence-slider-container {
+  padding-bottom: 20px;
+}

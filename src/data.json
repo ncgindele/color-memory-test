@@ -1,0 +1,548 @@
+[
+    {
+        "correct": true,
+        "hue": 52.68530795872222,
+        "deltaHue": -0.8829941943397155,
+        "confidence": 22
+    },
+    {
+        "correct": true,
+        "hue": 283.296417071713,
+        "deltaHue": 2.817521415221249,
+        "confidence": 87
+    },
+    {
+        "correct": true,
+        "hue": 165.88244584345176,
+        "deltaHue": 2.4865374383381282,
+        "confidence": 27
+    },
+    {
+        "correct": true,
+        "hue": 157.1559522687241,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 187.3019404349047,
+        "deltaHue": -2.17512490867527,
+        "confidence": 23
+    },
+    {
+        "correct": true,
+        "hue": 349.51871223441304,
+        "deltaHue": -1.447888857389608,
+        "confidence": 28
+    },
+    {
+        "correct": false,
+        "hue": 51.480919631649954,
+        "deltaHue": 0,
+        "confidence": 26
+    },
+    {
+        "correct": false,
+        "hue": 48.81651045261855,
+        "deltaHue": 0,
+        "confidence": 27
+    },
+    {
+        "correct": false,
+        "hue": 282.4553958102997,
+        "deltaHue": 0,
+        "confidence": 92
+    },
+    {
+        "correct": true,
+        "hue": 295.9724473995574,
+        "deltaHue": 0,
+        "confidence": 95
+    },
+    {
+        "correct": true,
+        "hue": 304.38398998550554,
+        "deltaHue": 0,
+        "confidence": 77
+    },
+    {
+        "correct": false,
+        "hue": 33.486151713047434,
+        "deltaHue": -2.047152195488754,
+        "confidence": 82
+    },
+    {
+        "correct": false,
+        "hue": 76.91681791102033,
+        "deltaHue": 2.6695510825374242,
+        "confidence": 22
+    },
+    {
+        "correct": true,
+        "hue": 198.30672549250633,
+        "deltaHue": 0,
+        "confidence": 66
+    },
+    {
+        "correct": true,
+        "hue": 190.13159168274402,
+        "deltaHue": 0,
+        "confidence": 68
+    },
+    {
+        "correct": false,
+        "hue": 26.657122632154646,
+        "deltaHue": -2.169393668095333,
+        "confidence": 22
+    },
+    {
+        "correct": false,
+        "hue": 138.62712029893993,
+        "deltaHue": 1.8344724963273924,
+        "confidence": 67
+    },
+    {
+        "correct": true,
+        "hue": 60.32989650824433,
+        "deltaHue": 1.9808666451591483,
+        "confidence": 26
+    },
+    {
+        "correct": true,
+        "hue": 308.8835029148669,
+        "deltaHue": 0.7975492277768716,
+        "confidence": 17
+    },
+    {
+        "correct": true,
+        "hue": 81.63163583199042,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 146.75074416628604,
+        "deltaHue": -1.4525445457461157,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 222.63777870685644,
+        "deltaHue": -2.5367389623598804,
+        "confidence": 73
+    },
+    {
+        "correct": true,
+        "hue": 111.85668575322079,
+        "deltaHue": 0,
+        "confidence": 31
+    },
+    {
+        "correct": false,
+        "hue": 8.264221247833436,
+        "deltaHue": -0.810522058509459,
+        "confidence": 33
+    },
+    {
+        "correct": true,
+        "hue": 63.23152100287837,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 96.51610270796229,
+        "deltaHue": 0,
+        "confidence": 74
+    },
+    {
+        "correct": true,
+        "hue": 220.54802801019315,
+        "deltaHue": 0,
+        "confidence": 78
+    },
+    {
+        "correct": true,
+        "hue": 277.65794587653045,
+        "deltaHue": 0,
+        "confidence": 73
+    },
+    {
+        "correct": true,
+        "hue": 207.21233291873236,
+        "deltaHue": 0,
+        "confidence": 23
+    },
+    {
+        "correct": false,
+        "hue": 126.63719584791465,
+        "deltaHue": -0.4311242793767336,
+        "confidence": 81
+    },
+    {
+        "correct": false,
+        "hue": 142.08439822372748,
+        "deltaHue": -2.5515562608846496,
+        "confidence": 67
+    },
+    {
+        "correct": false,
+        "hue": 352.5265470852248,
+        "deltaHue": -2.3824732486534894,
+        "confidence": 75
+    },
+    {
+        "correct": true,
+        "hue": 203.9629516185493,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 217.1116036498212,
+        "deltaHue": 0,
+        "confidence": 81
+    },
+    {
+        "correct": true,
+        "hue": 300.41132180239845,
+        "deltaHue": 0,
+        "confidence": 100
+    },
+    {
+        "correct": true,
+        "hue": 256.66826815668986,
+        "deltaHue": 0,
+        "confidence": 100
+    },
+    {
+        "correct": false,
+        "hue": 163.29806325268726,
+        "deltaHue": -1.6545730147301643,
+        "confidence": 94
+    },
+    {
+        "correct": false,
+        "hue": 262.0275800950181,
+        "deltaHue": 2.4153752626708824,
+        "confidence": 19
+    },
+    {
+        "correct": true,
+        "hue": 41.72866818561734,
+        "deltaHue": 0.49300791374113473,
+        "confidence": 27
+    },
+    {
+        "correct": true,
+        "hue": 105.83072912143278,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 203.91442633104717,
+        "deltaHue": 0.5260026808323808,
+        "confidence": 76
+    },
+    {
+        "correct": true,
+        "hue": 173.2062178817331,
+        "deltaHue": -1.0489678184116775,
+        "confidence": 30
+    },
+    {
+        "correct": false,
+        "hue": 63.73312810095208,
+        "deltaHue": 0.7306591411407248,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 360.1875264099905,
+        "deltaHue": -2.535982267856096,
+        "confidence": 22
+    },
+    {
+        "correct": true,
+        "hue": 312.924844304982,
+        "deltaHue": 0,
+        "confidence": 75
+    },
+    {
+        "correct": false,
+        "hue": 144.6221241472045,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 79.86077696446404,
+        "deltaHue": -2.7597017093735907,
+        "confidence": 93
+    },
+    {
+        "correct": true,
+        "hue": 11.09132844650655,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 311.03134371271324,
+        "deltaHue": 0,
+        "confidence": 30
+    },
+    {
+        "correct": false,
+        "hue": 263.7029497823792,
+        "deltaHue": -1.8517446484498405,
+        "confidence": 18
+    },
+    {
+        "correct": true,
+        "hue": 292.3586934972292,
+        "deltaHue": 0,
+        "confidence": 77
+    },
+    {
+        "correct": false,
+        "hue": 102.41140920449398,
+        "deltaHue": -2.6046499662822526,
+        "confidence": 7
+    },
+    {
+        "correct": true,
+        "hue": 132.29220828967894,
+        "deltaHue": 0,
+        "confidence": 13
+    },
+    {
+        "correct": false,
+        "hue": 97.28046800447147,
+        "deltaHue": 0.2888687168663353,
+        "confidence": 81
+    },
+    {
+        "correct": false,
+        "hue": 352.3826307179894,
+        "deltaHue": 2.3095506336025657,
+        "confidence": 73
+    },
+    {
+        "correct": false,
+        "hue": 320.77750618758597,
+        "deltaHue": 0,
+        "confidence": 16
+    },
+    {
+        "correct": true,
+        "hue": 202.82701605140588,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 193.30294223514264,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 113.30572168341583,
+        "deltaHue": 2.7381415732588907,
+        "confidence": 22
+    },
+    {
+        "correct": true,
+        "hue": 248.7725991769185,
+        "deltaHue": 0,
+        "confidence": 22
+    },
+    {
+        "correct": false,
+        "hue": 162.0374657231597,
+        "deltaHue": -0.9954355562905168,
+        "confidence": 70
+    },
+    {
+        "correct": false,
+        "hue": 161.5335654938357,
+        "deltaHue": -1.6060903085000864,
+        "confidence": 20
+    },
+    {
+        "correct": true,
+        "hue": 181.5572883957479,
+        "deltaHue": 0,
+        "confidence": 29
+    },
+    {
+        "correct": false,
+        "hue": 226.2004056660368,
+        "deltaHue": -2.8058750009939786,
+        "confidence": 30
+    },
+    {
+        "correct": false,
+        "hue": 225.66921425602635,
+        "deltaHue": -0.3114899094348049,
+        "confidence": 23
+    },
+    {
+        "correct": true,
+        "hue": 345.56829758887886,
+        "deltaHue": 0,
+        "confidence": 70
+    },
+    {
+        "correct": false,
+        "hue": 153.5649025473517,
+        "deltaHue": 0,
+        "confidence": 13
+    },
+    {
+        "correct": true,
+        "hue": 344.00407097993536,
+        "deltaHue": 0,
+        "confidence": 31
+    },
+    {
+        "correct": true,
+        "hue": 124.10543941183604,
+        "deltaHue": 0,
+        "confidence": 32
+    },
+    {
+        "correct": true,
+        "hue": 226.1868504900879,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 132.95725886076414,
+        "deltaHue": 1.7555846639367472,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 249.38491538418154,
+        "deltaHue": 0,
+        "confidence": 19
+    },
+    {
+        "correct": true,
+        "hue": 207.20593097021543,
+        "deltaHue": 0,
+        "confidence": 22
+    },
+    {
+        "correct": true,
+        "hue": 142.0154493294458,
+        "deltaHue": -2.2574698901712065,
+        "confidence": 11
+    },
+    {
+        "correct": true,
+        "hue": 335.9121496482274,
+        "deltaHue": 0,
+        "confidence": 11
+    },
+    {
+        "correct": false,
+        "hue": 129.41388090796315,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": false,
+        "hue": 329.90865561756686,
+        "deltaHue": -1.6345263937895425,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 120.31283669388712,
+        "deltaHue": 0.5864479326233925,
+        "confidence": 27
+    },
+    {
+        "correct": true,
+        "hue": 44.397471415785255,
+        "deltaHue": 1.2844133601165548,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 30.241447712853944,
+        "deltaHue": 0,
+        "confidence": 30
+    },
+    {
+        "correct": false,
+        "hue": 3.6394367106688463,
+        "deltaHue": 0,
+        "confidence": 30
+    },
+    {
+        "correct": false,
+        "hue": 59.04023042653247,
+        "deltaHue": 0,
+        "confidence": 22
+    },
+    {
+        "correct": false,
+        "hue": 6.609967158379435,
+        "deltaHue": 0,
+        "confidence": 25
+    },
+    {
+        "correct": false,
+        "hue": 87.34689187121117,
+        "deltaHue": 0,
+        "confidence": 100
+    },
+    {
+        "correct": true,
+        "hue": 240.78044378947902,
+        "deltaHue": -0.8895513427916255,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 125.91357841439547,
+        "deltaHue": -0.7742331550424408,
+        "confidence": 0
+    },
+    {
+        "correct": true,
+        "hue": 353.13915637641026,
+        "deltaHue": 0.39428018978277724,
+        "confidence": 8
+    },
+    {
+        "correct": false,
+        "hue": 317.4171317679961,
+        "deltaHue": 0,
+        "confidence": 11
+    },
+    {
+        "correct": true,
+        "hue": 44.19390486166862,
+        "deltaHue": -0.9849546496610366,
+        "confidence": 0
+    },
+    {
+        "correct": true,
+        "hue": 236.37169255525555,
+        "deltaHue": 0,
+        "confidence": 50
+    },
+    {
+        "correct": true,
+        "hue": 314.0743358448885,
+        "deltaHue": -0.35046524930915113,
+        "confidence": 0
+    }
+]
